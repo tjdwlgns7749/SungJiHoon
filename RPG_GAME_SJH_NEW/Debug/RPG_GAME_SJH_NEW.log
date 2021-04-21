@@ -1,0 +1,11 @@
+﻿  GameManager.cpp
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\MapDraw.h(19,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\MapDraw.h(19,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(6,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(52,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(53,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(54,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(55,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(69,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\RPG_GAME_SJH_NEW\GameManager.cpp(69,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RPG_GAME_SJH_NEW.vcxproj -> C:\Users\A-03\source\repos\RPG_GAME_SJH_NEW\Debug\RPG_GAME_SJH_NEW.exe
