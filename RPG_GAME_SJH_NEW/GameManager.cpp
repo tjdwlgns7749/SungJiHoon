@@ -390,11 +390,26 @@ bool GameManager::DefaultLoad()
 	bool PlayerLoadCheck = false;
 	bool MonsterLoadCheck = false;
 
-	m_DrawManager.BoxErase(WIDTH, HEIGHT);
-	YELLOW
-	m_DrawManager.DrawMidText("Player 이름 입력 : ", WIDTH, HEIGHT * 0.5);
-	ORIGINAL
-	cin >> Name;
+	while (1)
+	{
+		m_DrawManager.BoxErase(WIDTH, HEIGHT);
+		YELLOW
+			m_DrawManager.DrawMidText("Player 이름 입력 : ", WIDTH, HEIGHT * 0.5);
+		ORIGINAL
+
+			getline(cin, Name);//줄바꿈 방지 cin을 쓰면 줄바꿈을 못막음.
+
+		if (Name == "")
+		{
+			RED
+				m_DrawManager.BoxErase(WIDTH, HEIGHT);
+			m_DrawManager.DrawMidText("비정상적인 이름. 다시입력", WIDTH, HEIGHT * 0.5);
+			getch();
+			ORIGINAL
+		}
+		else
+			break;
+	}
 
 	FileName = "DefaultPlayer.txt";
 	PlayerLoadCheck = m_Player.PlayerDefaultLoad(Name,FileName);
