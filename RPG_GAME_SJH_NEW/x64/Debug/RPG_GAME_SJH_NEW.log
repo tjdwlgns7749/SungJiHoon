@@ -75,64 +75,30 @@ c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(332): 
 c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(334): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(335): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(345): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(395): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(417): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(418): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(419): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(420): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(426): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(427): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(428): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(429): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(430): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(431): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(432): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(440): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(448): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(454): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(449): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(397): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(408): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(409): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(455): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(434): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(435): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(436): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(437): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(443): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(444): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(445): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(446): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(447): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(448): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(449): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(457): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(465): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(471): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(466): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(512): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(472): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(522): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(549): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Shop.cpp
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\mapdraw.h(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(60): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(529): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(96): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(113): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(126): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(130): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(144): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(148): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(150): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\weapon.h(149): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(13): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(91): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(92): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(94): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(95): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(96): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(97): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\shop.cpp(110): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다...
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(539): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a-03\downloads\rpg_game_sjh_new\rpg_game_sjh_new\gamemanager.cpp(566): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   RPG_GAME_SJH_NEW.vcxproj -> C:\Users\A-03\Downloads\RPG_GAME_SJH_NEW\x64\Debug\RPG_GAME_SJH_NEW.exe

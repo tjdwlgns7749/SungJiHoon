@@ -394,15 +394,17 @@ bool GameManager::DefaultLoad()
 	{
 		m_DrawManager.BoxErase(WIDTH, HEIGHT);
 		YELLOW
-			m_DrawManager.DrawMidText("Player 이름 입력 : ", WIDTH, HEIGHT * 0.5);
+		m_DrawManager.DrawMidText("Player 이름 입력(8글자 이하) : ", WIDTH, HEIGHT * 0.5);
+		
 		ORIGINAL
 
-			getline(cin, Name);//줄바꿈 방지 cin을 쓰면 줄바꿈을 못막음.
+		getline(cin, Name);//줄바꿈 방지 cin을 쓰면 줄바꿈을 못막음.
 
-		if (Name == "")
+		if (Name == "" || Name.size() > 8)
 		{
+			m_DrawManager.BoxErase(WIDTH, HEIGHT);
+			m_DrawManager.BoxDraw(0, 0, WIDTH, HEIGHT);
 			RED
-				m_DrawManager.BoxErase(WIDTH, HEIGHT);
 			m_DrawManager.DrawMidText("비정상적인 이름. 다시입력", WIDTH, HEIGHT * 0.5);
 			getch();
 			ORIGINAL
